@@ -1,4 +1,4 @@
-package projectRecoveryPsu;
+package projectRecoveryJny;
 
 public class projectRecoveryTest {
 
